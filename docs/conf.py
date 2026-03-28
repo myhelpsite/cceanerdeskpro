@@ -26,3 +26,6 @@ html_context = {
   <meta name="msvalidate.01" content="649552A7F8FC8C674CD07172F20F2D02" />
     """
 }
+
+# Base URL for sitemap
+html_baseurl = 'https://cceanerdeskpro.readthedocs.io/en/latest/'
